@@ -1,0 +1,5 @@
+C:\Users\Norbert\Desktop\GIT\PSSC-2016-2017\PSSC\Models\bin\Debug\Models.pdb
+C:\Users\Norbert\Desktop\GIT\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\Norbert\Desktop\GIT\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.pdb
+C:\Users\Norbert\Desktop\GIT\PSSC-2016-2017\PSSC\Models\bin\Debug\Models.exe
+C:\Users\Norbert\Desktop\GIT\PSSC-2016-2017\PSSC\Models\obj\Debug\Models.exe
