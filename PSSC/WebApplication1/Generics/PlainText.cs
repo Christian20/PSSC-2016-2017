@@ -15,10 +15,5 @@ namespace Models.Generics
         {
             _text = text;
         }
-
-        internal static int Compare(PlainText Name, PlainText name)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
